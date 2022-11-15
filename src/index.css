@@ -49,5 +49,5 @@ nav li a {
 
 .nav-active {
   color: #0582d6;
-  transition: all .3s ease-out;
+  transition: all .15s ease-out;
 }
