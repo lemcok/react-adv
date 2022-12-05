@@ -51,3 +51,7 @@ nav li a {
   color: #0582d6;
   transition: all .15s ease-out;
 }
+
+a {
+  color: skyblue;
+}
